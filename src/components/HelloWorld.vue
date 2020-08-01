@@ -35,7 +35,7 @@
 				>
 			</li>
 		</ul>
-		<h3>Essential Links</h3>
+		<h3>Essential Link too i don't know</h3>
 		<ul>
 			<li>
 				<a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
@@ -104,7 +104,7 @@ export default {
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
-<style scoped>
+<style lang="scss" scoped>
 h3 {
 	margin: 40px 0 0;
 }
